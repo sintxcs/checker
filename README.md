@@ -26,6 +26,7 @@ pip install -r requirements.txt
 <br> • Garena Account (CODM Fail) separator
 <br> • Auto pause when Captcha (403) for changing IP and retry if Rate Limit (429) in Garena API
 <br> • Auto-saving and rotating cookies
+<br> • Auro url remover
 
 ### Credits.js
 This is an API for calling back the endpoint to make a key for users to access the checker.sin
