@@ -74,6 +74,7 @@ When you run the script for the first time, it will guide you through:
 2.  Make sure the termux terminal is in the root path
 3.  Run the script using:
     ```bash
+    cd checker
     python checker.py
     ```
 4.  **Follow On-Screen Prompts**:
