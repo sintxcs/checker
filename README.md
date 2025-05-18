@@ -4,6 +4,9 @@
 
 This Python script checks Garena accounts for Call of Duty Mobile (CODM) binding status, player level, and other account details. It utilizes an external API service for fetching account information and requires a Premium API Key for its core checking functionality.
 
+## 🖥️ Panel
+* [S1N CODM CHECKER PANEL](https://sin-codmchecker.giize.com/)
+
 ## ✨ Features
 
 *   Checks Garena account validity.
