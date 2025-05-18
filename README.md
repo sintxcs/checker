@@ -35,7 +35,7 @@ This Python script checks Garena accounts for Call of Duty Mobile (CODM) binding
 
 1.  **Cloning Script**:
    ```bash
-   rm -rf git clone https://github.com/sintxcs/checker.git
+   rm -rf checker; git clone https://github.com/sintxcs/checker.git
 ```
 3.  **Install Dependencies**:
     Open your terminal or command prompt and navigate to the directory where you saved the script. Then, create a `requirements.txt` file with the following content:
