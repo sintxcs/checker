@@ -115,5 +115,3 @@ Each output file will have a header and footer indicating the checker source and
 
 > [!WARNING]  
 > *This tool is for educational purposes only. The creator won't take any responsibility if any users take advantage of this and exploit it for illicit activities.*
-
-Using this tool to gain unauthorized access to accounts or for any malicious purpose is strictly prohibited and may violate applicable laws and regulations.
