@@ -1,0 +1,6 @@
+colorama==0.4.6
+packaging==25.0
+pycryptodome==3.22.0
+pystyle==2.9
+Requests==2.32.3
+rich==14.0.0
