@@ -1,6 +1,0 @@
-colorama==0.4.6
-pycryptodome==3.22.0
-pystyle==2.9
-Requests==2.32.3
-requirements_parser==0.11.0
-rich==14.0.0
